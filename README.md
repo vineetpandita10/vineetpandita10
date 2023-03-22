@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vineetpandita10
 - 👀 I’m interested in ...SDE-1 Roles
-- 🌱 I’m currently learning ...DataStructures and Algorithms✨
+- 🌱 I’m currently learning ...DataStructures and Algorithms, MERN, Core Java✨
 - 💞️ I’m looking to collaborate on ...nothing Xd 
 - 📫 How to reach me ... Linkedin
 - Below are some projects I have built. Go to their ReadMe sections and there will be a DEPLOYED link in every project, click the link and enjoy.
